@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo A. M. Pereira | GAMP</title>
+    <link>/author/gustavo-a.-m.-pereira/</link>
+      <atom:link href="/author/gustavo-a.-m.-pereira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gustavo A. M. Pereira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/gustavo-a.-m.-pereira/avatar_hu82031d67b3421a46405872c7c7d45597_98384_270x270_fill_q90_lanczos_center.jpeg</url>
+      <title>Gustavo A. M. Pereira</title>
+      <link>/author/gustavo-a.-m.-pereira/</link>
+    </image>
+    
+    <item>
+      <title>Documentando os Herbicidas no Brasil em 2020</title>
+      <link>/post/herbicidas-brasil_2020/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/herbicidas-brasil_2020/</guid>
+      <description>&lt;p&gt;Por Maxwel Coura Oliveira e Gustavo Antônio Mendes Pereira.&lt;/p&gt;
+&lt;h3 id=&#34;herbicidas-no-brasil&#34;&gt;Herbicidas no Brasil&lt;/h3&gt;
+&lt;p&gt;O manejo de plantas daninhas tem passado por diversas transformações nos últimos cem anos. A primeira grande mudança foi a introdução de herbicidas sintéticos na década de 1940. Dentre outros fatores, os herbicidas sintéticos tiveram sucesso por promover o controle de plantas daninhas com eficácia e com custos baixos. Novas moléculas de herbicidas surgiram, como a atrazina e herbicidas inibidores da acetolactato sintase, que foram grandes casos de sucesso no uso de herbicidas no cultivo de milho e soja, respectivamente. Porém, com o uso de herbicidas em lavouras, surgiram os primeiros casos de plantas daninhas resistentes à herbicidas. Nos anos 80, com a mudança no uso do solo e a introdução do plantio direto, em seguida, foram introduzidos os conceitos de Manejo Integrado de Plantas Daninhas, que visa integrar diferentes métodos, baseado na sustentabilidade do agroecossistema. Já no inicio dos anos 2000, houve a introdução de culturas transgênicas resistentes a herbicidas no Brasil, que provocaram a redução do uso de alguns produtos e o aumento considerável de outros. Com isto, houve aumento na pressão de seleção e a proliferação de biotipos resistentes à herbicidas, se tornando o principal problema enfrentado por técnicos no manejo de plantas daninhas atualmente. Outra importante mudança ocorreu no aumento considerável de registros de produtos comerciais no 
+&lt;a href=&#34;https://www.gov.br/agricultura/pt-br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ministério da Agricultura, Pecuária e Abastecimento (MAPA)&lt;/a&gt;. E o ultimo grande impacto foi a alteração na lei no que tange o uso de misturas de herbicidas, ficando a critério do Eng. agrônomo a recomendação adequada de mistura para cada situação. Frente a estas mudanças impactantes, fica cada vez mais evidente a necessidade de que profissionais do campo estejam altamente capacitados para realizarem o manejo adequado de plantas daninhas,  garantindo a sustentabilidade do agroecossistema do ponto de vista econômico e ambiental.&lt;/p&gt;
+&lt;p&gt;O uso de herbicida ainda é o método mais utilizado para o controle de plantas daninhas. De acordo com a 
+&lt;a href=&#34;https://b73f4c7b-d632-4353-826f-b62eca2c370a.filesusr.com/ugd/48f515_4b3f2659a70148818ee1413867daee3f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HRAC - Comitê de Ação a Resistência aos Herbicidas&lt;/a&gt;, os herbicidas podem ser classificados de acordo com as seguintes características: modo de ação, sítio de ação, família química e ingrediente ativo. De acordo com o 
+&lt;a href=&#34;http://agrofit.agricultura.gov.br/agrofit_cons/principal_agrofit_cons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGROFIT&lt;/a&gt; do MAPA, existem 779 herbicidas registrados no Brasil em abril de 2020, cuja possibilidade de comercialização está associada a 60 empresas. Dentre estas, a UPL, Dow e Adama são as empresas que mais possuem herbicidas registrados. Não estão registradas no &lt;strong&gt;AGROFIT&lt;/strong&gt; as fusões de algumas empresas, o que deve ser considerado na leitura da figura abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/empresa.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dentre os 779 herbicidas registrados no Brasil, 612 (79%) são produtos comerciais com apenas 1 ingrediente ativo. Dos produtos comerciais restantes, 21% são misturas de 2 (n=158) ou 3 (n=9) ingredientes ativos. Essas misturas de herbicidas com os respectivos produtos comerciais e sítios de ação estão presentes na segunda página no chart. Veja a figura abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herbicide_mixtures.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dentre os herbicidas registrados com 1 ingrediente ativo (n=612), o glifosato possui mais registros de produtos comerciais (n=113). Logo em seguida aparecem a atrazina (n=59), o picloram (n=47), o 2,4-D (n=47) e o diuron (n=46). Como o glifosato é o herbicida mais utilizado no Brasil, não é surpresa que apareça com o maior número de produtos comerciais registrados. Herbicidas mimetizatores da auxina (picloram e 2,4-D) e inibidores da fotossíntese no fotossistema (FS) II (atrazine e diuron) completam a lista dos 5 herbicidas com 1 ingrediente ativo com mais registros no Brasil. Veja na figure abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herb_ia.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dos 158 produtos comerciais pré-misturados com 2 ingredientes ativos, o picloram + 2,4-D se destaca, com 31 registros, seguido, nessa ordem, pelos seguintes produtos comerciais: diurom diuron + hexazinona (n=19), atrazina + simazina (n=12), floroxipyr + picloram (n=9) e aminopiralide + 2,4-D (n=9). Esses 5 produtos possuem misturas com ingrediente ativo de mesmo sítio de ação, mimetizatores da auxina ou inibidores da FSII. Interessante notar a presença de misturas de herbicidas de mesmo ingrediente ativo, como o glifosato + glifosato (n=4) e outros. Veja na figure abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herb_dois_ia.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Apenas 9 produtos foram registrados com 3 ingredientes ativos pré-misturados. As misturas de herbicidas mimetizadores da auxina aminopiralide + picloram + triclopir e aminopiralide + floroxipir + picloram possuem 3 produtos comerciais cada. Veja a figura abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herb_tres_ia.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Os dados acima resume os herbicidas registrados no Brasil até abril de 2020. Interessante notar a quantidade de herbicidas registrados no Brasil pertencentes ao grupo dos mimetizatores da auxina e dos inibidores da FSII. Além disso, existe uma tendência de misturas de herbicidas com o mesmo sítio de ação.&lt;/p&gt;
+&lt;h3 id=&#34;classificação-de-herbicidas-no-brasil&#34;&gt;Classificação de Herbicidas no Brasil&lt;/h3&gt;
+&lt;p&gt;A classificação de herbicidas pode facilitar a tomada de decisão no manejo de plantas daninhas e melhorar a documentação do uso de herbicidas em uma determinada área. Nesse sentido, para facilicitar a produção de conhecimento sobre o uso de herbicidas na prática brasileira, desenvolvemos um chart com a &lt;strong&gt;Classificação de Herbicidas no Brasil&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Para isso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Levamos em consideração os herbicidas que estão listados no 
+&lt;a href=&#34;http://agrofit.agricultura.gov.br/agrofit_cons/principal_agrofit_cons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGROFIT&lt;/a&gt; do Ministério da Agricultura, Pecuária e Abastecimento (MAPA) até o mês de abril de 2020;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Classificamos os herbicidas de acordo com a 
+&lt;a href=&#34;https://b73f4c7b-d632-4353-826f-b62eca2c370a.filesusr.com/ugd/48f515_4b3f2659a70148818ee1413867daee3f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HRAC&lt;/a&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incluímos produtos comerciais para facilitar o uso de herbicidas por técnicos, consultores e produtores rurais, o que não configura nosso endosso a qualquer empresa;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;O chart de herbicida é de forma gratuita, basta apenas fazer download;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O chart possui duas páginas, a primeira mostra a classificação de todos os ingredientes ativos de herbicidas que estão com registros em vigência no Brasil:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/first.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A segunda página mostra todos os herbicidas pré-misturados e de ingredientes ativos diferentes (n=157) registrados para uso no Brasil:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/second.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Para fazer o download, clique aqui:&lt;/strong&gt; 
+&lt;a href=&#34;/post/chart/Chart_Herbicida.pdf&#34;&gt;Classificação de Herbicidas no Brasil&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Espero que o chart de herbicidas apresentado aqui possa ser usado por estudantes e professores para fins educacionais, e para tomada de decisões por técnicos, consultores e produtores rurais no Brasil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capítulo de livro publicado - Dinâmica de herbicidas no solo</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atenuadores de injúrias causadas por deriva de glyphosate em mudas de café</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;p&gt;O manejo químico com o herbicida glyphosate é a principal alternativa utilizada para o controle de plantas daninhas por cafeicultores no Brasil. Este produto é não seletivo, em razão disto, sua aplicação deve ser realizada de forma dirigida, evitando-se que o produto entre em contato com as plantas de café. Mesmo se adotando os devidos cuidados com a tecnologia de aplicação, ainda são frequentes os casos de intoxicações em plantas de café. Uma alternativa que estamos estudando para minimizar este efeito, é o uso de produtos protetores que são capazes de atenuar os efeitos do herbicida e possibilitarem a recuperação das plantas. Neste estudo preliminar vocês podem observar os efeitos do uso de dois produtos, o Fertiactyl pós e o Crop+, misturados na calda com o glyphosate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/caf%C3%A9/teste2.jpg&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

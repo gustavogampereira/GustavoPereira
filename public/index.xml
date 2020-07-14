@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GAMP</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>GAMP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>GAMP</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>As injúrias que podem ocorrer na cultura do alho pela presença de residual de herbicidas no solo</title>
+      <link>/post/alho/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/alho/</guid>
+      <description>&lt;p&gt;Por Marcelo Rodrigues dos Reis, Gustavo Antônio Mendes Pereira e Maxwel Coura Oliveira.&lt;/p&gt;
+&lt;h3 id=&#34;residual-de-herbicidas-na-cultura-do-alho&#34;&gt;Residual de herbicidas na cultura do alho&lt;/h3&gt;
+&lt;p&gt;Prezados Colegas,&lt;/p&gt;
+&lt;p&gt;É com satisfação que compartilhamos o boletim técnico em parceria com a ANAPA demonstrando os efeitos de residual de herbicidas na cultura do alho.
+Acreditamos ser um documento de conscientização do problema de residual de herbicidas no alho, afim de melhorar o gerenciamento do uso de herbicidas nas fazendas e evitar prejuízos futuros.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/alho/foto.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Para acessar : &lt;a href=&#34;http://boletimagrotecnico.crp.ufv.br/?page_id=2253&#34;&gt;http://boletimagrotecnico.crp.ufv.br/?page_id=2253&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ao compartilhar, favor, compartilhar o link e não o documento em pdf. Pois, assim teremos o alcance real da informação para atividade extensão da UFV a serviço da sociedade.&lt;/p&gt;
+&lt;p&gt;Ao compartilhar, favor, compartilhar o link acima e não o documento em pdf. Pois, assim teremos o alcance real da informação para atividade extensão da UFV a serviço da sociedade.&lt;/p&gt;
+&lt;p&gt;Abraços,&lt;/p&gt;
+&lt;p&gt;Autores&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aplicação de herbicidas - Os cuidados que o produtor deve tomar ao realizar a rotação de culturas em cultivos de cebola</title>
+      <link>/post/cebola/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/cebola/</guid>
+      <description>&lt;p&gt;Por Marcelo Rodrigues dos Reis, Gustavo Antônio Mendes Pereira e Maxwel Coura Oliveira.&lt;/p&gt;
+&lt;h3 id=&#34;residual-de-herbicidas-na-cultura-da-cebola&#34;&gt;Residual de herbicidas na cultura da cebola&lt;/h3&gt;
+&lt;p&gt;Prezados Colegas,&lt;/p&gt;
+&lt;p&gt;É com satisfação que compartilhamos o boletim técnico em parceria com a ANACE demonstrando os efeitos de residual de herbicidas na cultura da cebola. 
+Acreditamos ser um documento de conscientização do problema de residual de herbicidas na cebola afim de melhorar o gerenciamento do uso de herbicidas nas fazendas e evitar prejuízos futuros.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Cebola/foto.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Para acessar : &lt;a href=&#34;http://boletimagrotecnico.crp.ufv.br/?page_id=2253&#34;&gt;http://boletimagrotecnico.crp.ufv.br/?page_id=2253&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ao compartilhar, favor, compartilhar o link e não o documento em pdf. Pois, assim teremos o alcance real da informação para atividade extensão da UFV a serviço da sociedade.&lt;/p&gt;
+&lt;p&gt;Abraços,&lt;/p&gt;
+&lt;p&gt;Autores&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Documentando os Herbicidas no Brasil em 2020</title>
+      <link>/post/herbicidas-brasil_2020/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/herbicidas-brasil_2020/</guid>
+      <description>&lt;p&gt;Por Maxwel Coura Oliveira e Gustavo Antônio Mendes Pereira.&lt;/p&gt;
+&lt;h3 id=&#34;herbicidas-no-brasil&#34;&gt;Herbicidas no Brasil&lt;/h3&gt;
+&lt;p&gt;O manejo de plantas daninhas tem passado por diversas transformações nos últimos cem anos. A primeira grande mudança foi a introdução de herbicidas sintéticos na década de 1940. Dentre outros fatores, os herbicidas sintéticos tiveram sucesso por promover o controle de plantas daninhas com eficácia e com custos baixos. Novas moléculas de herbicidas surgiram, como a atrazina e herbicidas inibidores da acetolactato sintase, que foram grandes casos de sucesso no uso de herbicidas no cultivo de milho e soja, respectivamente. Porém, com o uso de herbicidas em lavouras, surgiram os primeiros casos de plantas daninhas resistentes à herbicidas. Nos anos 80, com a mudança no uso do solo e a introdução do plantio direto, em seguida, foram introduzidos os conceitos de Manejo Integrado de Plantas Daninhas, que visa integrar diferentes métodos, baseado na sustentabilidade do agroecossistema. Já no inicio dos anos 2000, houve a introdução de culturas transgênicas resistentes a herbicidas no Brasil, que provocaram a redução do uso de alguns produtos e o aumento considerável de outros. Com isto, houve aumento na pressão de seleção e a proliferação de biotipos resistentes à herbicidas, se tornando o principal problema enfrentado por técnicos no manejo de plantas daninhas atualmente. Outra importante mudança ocorreu no aumento considerável de registros de produtos comerciais no 
+&lt;a href=&#34;https://www.gov.br/agricultura/pt-br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ministério da Agricultura, Pecuária e Abastecimento (MAPA)&lt;/a&gt;. E o ultimo grande impacto foi a alteração na lei no que tange o uso de misturas de herbicidas, ficando a critério do Eng. agrônomo a recomendação adequada de mistura para cada situação. Frente a estas mudanças impactantes, fica cada vez mais evidente a necessidade de que profissionais do campo estejam altamente capacitados para realizarem o manejo adequado de plantas daninhas,  garantindo a sustentabilidade do agroecossistema do ponto de vista econômico e ambiental.&lt;/p&gt;
+&lt;p&gt;O uso de herbicida ainda é o método mais utilizado para o controle de plantas daninhas. De acordo com a 
+&lt;a href=&#34;https://b73f4c7b-d632-4353-826f-b62eca2c370a.filesusr.com/ugd/48f515_4b3f2659a70148818ee1413867daee3f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HRAC - Comitê de Ação a Resistência aos Herbicidas&lt;/a&gt;, os herbicidas podem ser classificados de acordo com as seguintes características: modo de ação, sítio de ação, família química e ingrediente ativo. De acordo com o 
+&lt;a href=&#34;http://agrofit.agricultura.gov.br/agrofit_cons/principal_agrofit_cons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGROFIT&lt;/a&gt; do MAPA, existem 779 herbicidas registrados no Brasil em abril de 2020, cuja possibilidade de comercialização está associada a 60 empresas. Dentre estas, a UPL, Dow e Adama são as empresas que mais possuem herbicidas registrados. Não estão registradas no &lt;strong&gt;AGROFIT&lt;/strong&gt; as fusões de algumas empresas, o que deve ser considerado na leitura da figura abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/empresa.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dentre os 779 herbicidas registrados no Brasil, 612 (79%) são produtos comerciais com apenas 1 ingrediente ativo. Dos produtos comerciais restantes, 21% são misturas de 2 (n=158) ou 3 (n=9) ingredientes ativos. Essas misturas de herbicidas com os respectivos produtos comerciais e sítios de ação estão presentes na segunda página no chart. Veja a figura abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herbicide_mixtures.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dentre os herbicidas registrados com 1 ingrediente ativo (n=612), o glifosato possui mais registros de produtos comerciais (n=113). Logo em seguida aparecem a atrazina (n=59), o picloram (n=47), o 2,4-D (n=47) e o diuron (n=46). Como o glifosato é o herbicida mais utilizado no Brasil, não é surpresa que apareça com o maior número de produtos comerciais registrados. Herbicidas mimetizatores da auxina (picloram e 2,4-D) e inibidores da fotossíntese no fotossistema (FS) II (atrazine e diuron) completam a lista dos 5 herbicidas com 1 ingrediente ativo com mais registros no Brasil. Veja na figure abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herb_ia.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dos 158 produtos comerciais pré-misturados com 2 ingredientes ativos, o picloram + 2,4-D se destaca, com 31 registros, seguido, nessa ordem, pelos seguintes produtos comerciais: diurom diuron + hexazinona (n=19), atrazina + simazina (n=12), floroxipyr + picloram (n=9) e aminopiralide + 2,4-D (n=9). Esses 5 produtos possuem misturas com ingrediente ativo de mesmo sítio de ação, mimetizatores da auxina ou inibidores da FSII. Interessante notar a presença de misturas de herbicidas de mesmo ingrediente ativo, como o glifosato + glifosato (n=4) e outros. Veja na figure abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herb_dois_ia.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Apenas 9 produtos foram registrados com 3 ingredientes ativos pré-misturados. As misturas de herbicidas mimetizadores da auxina aminopiralide + picloram + triclopir e aminopiralide + floroxipir + picloram possuem 3 produtos comerciais cada. Veja a figura abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/herb_tres_ia.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Os dados acima resume os herbicidas registrados no Brasil até abril de 2020. Interessante notar a quantidade de herbicidas registrados no Brasil pertencentes ao grupo dos mimetizatores da auxina e dos inibidores da FSII. Além disso, existe uma tendência de misturas de herbicidas com o mesmo sítio de ação.&lt;/p&gt;
+&lt;h3 id=&#34;classificação-de-herbicidas-no-brasil&#34;&gt;Classificação de Herbicidas no Brasil&lt;/h3&gt;
+&lt;p&gt;A classificação de herbicidas pode facilitar a tomada de decisão no manejo de plantas daninhas e melhorar a documentação do uso de herbicidas em uma determinada área. Nesse sentido, para facilicitar a produção de conhecimento sobre o uso de herbicidas na prática brasileira, desenvolvemos um chart com a &lt;strong&gt;Classificação de Herbicidas no Brasil&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Para isso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Levamos em consideração os herbicidas que estão listados no 
+&lt;a href=&#34;http://agrofit.agricultura.gov.br/agrofit_cons/principal_agrofit_cons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGROFIT&lt;/a&gt; do Ministério da Agricultura, Pecuária e Abastecimento (MAPA) até o mês de abril de 2020;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Classificamos os herbicidas de acordo com a 
+&lt;a href=&#34;https://b73f4c7b-d632-4353-826f-b62eca2c370a.filesusr.com/ugd/48f515_4b3f2659a70148818ee1413867daee3f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HRAC&lt;/a&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incluímos produtos comerciais para facilitar o uso de herbicidas por técnicos, consultores e produtores rurais, o que não configura nosso endosso a qualquer empresa;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;O chart de herbicida é de forma gratuita, basta apenas fazer download;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O chart possui duas páginas, a primeira mostra a classificação de todos os ingredientes ativos de herbicidas que estão com registros em vigência no Brasil:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/first.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A segunda página mostra todos os herbicidas pré-misturados e de ingredientes ativos diferentes (n=157) registrados para uso no Brasil:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/chart/second.png&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Para fazer o download, clique aqui:&lt;/strong&gt; 
+&lt;a href=&#34;/post/chart/Chart_Herbicida.pdf&#34;&gt;Classificação de Herbicidas no Brasil&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Espero que o chart de herbicidas apresentado aqui possa ser usado por estudantes e professores para fins educacionais, e para tomada de decisões por técnicos, consultores e produtores rurais no Brasil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capítulo de livro publicado - Dinâmica de herbicidas no solo</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atenuadores de injúrias causadas por deriva de glyphosate em mudas de café</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;p&gt;O manejo químico com o herbicida glyphosate é a principal alternativa utilizada para o controle de plantas daninhas por cafeicultores no Brasil. Este produto é não seletivo, em razão disto, sua aplicação deve ser realizada de forma dirigida, evitando-se que o produto entre em contato com as plantas de café. Mesmo se adotando os devidos cuidados com a tecnologia de aplicação, ainda são frequentes os casos de intoxicações em plantas de café. Uma alternativa que estamos estudando para minimizar este efeito, é o uso de produtos protetores que são capazes de atenuar os efeitos do herbicida e possibilitarem a recuperação das plantas. Neste estudo preliminar vocês podem observar os efeitos do uso de dois produtos, o Fertiactyl pós e o Crop+, misturados na calda com o glyphosate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/caf%C3%A9/teste2.jpg&#34; alt=&#34;Figure&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591711873270.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3756327568",
+    "id" : "F6766ADC",
+    "lastKnownWriteTime" : 1591713147,
+    "last_content_update" : 1591713147723,
+    "path" : "C:/Users/gusta/Desktop/Site/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "11,11",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
